@@ -1,7 +1,6 @@
 import { createGlobalStyle } from "styled-components";
 
 export const GlobalStyles = createGlobalStyle`
-    @import url('https://fonts.googleapis.com/css?family=Roboto');
   * {
       box-sizing: border-box;
       padding: 0;
